@@ -1,0 +1,14 @@
+D:\Users\thales\source\repos\Take.Bot.Safra.RotinaApi\Take.Bot.Safra.RotinaApi\bin\Debug\netcoreapp2.2\Take.Bot.Safra.RotinaApi.deps.json
+D:\Users\thales\source\repos\Take.Bot.Safra.RotinaApi\Take.Bot.Safra.RotinaApi\bin\Debug\netcoreapp2.2\Take.Bot.Safra.RotinaApi.runtimeconfig.json
+D:\Users\thales\source\repos\Take.Bot.Safra.RotinaApi\Take.Bot.Safra.RotinaApi\bin\Debug\netcoreapp2.2\Take.Bot.Safra.RotinaApi.runtimeconfig.dev.json
+D:\Users\thales\source\repos\Take.Bot.Safra.RotinaApi\Take.Bot.Safra.RotinaApi\bin\Debug\netcoreapp2.2\Take.Bot.Safra.RotinaApi.dll
+D:\Users\thales\source\repos\Take.Bot.Safra.RotinaApi\Take.Bot.Safra.RotinaApi\obj\Debug\netcoreapp2.2\Take.Bot.Safra.RotinaApi.csprojAssemblyReference.cache
+D:\Users\thales\source\repos\Take.Bot.Safra.RotinaApi\Take.Bot.Safra.RotinaApi\obj\Debug\netcoreapp2.2\Take.Bot.Safra.RotinaApi.csproj.CoreCompileInputs.cache
+D:\Users\thales\source\repos\Take.Bot.Safra.RotinaApi\Take.Bot.Safra.RotinaApi\obj\Debug\netcoreapp2.2\Take.Bot.Safra.RotinaApi.RazorAssemblyInfo.cache
+D:\Users\thales\source\repos\Take.Bot.Safra.RotinaApi\Take.Bot.Safra.RotinaApi\obj\Debug\netcoreapp2.2\Take.Bot.Safra.RotinaApi.RazorAssemblyInfo.cs
+D:\Users\thales\source\repos\Take.Bot.Safra.RotinaApi\Take.Bot.Safra.RotinaApi\obj\Debug\netcoreapp2.2\Take.Bot.Safra.RotinaApi.AssemblyInfoInputs.cache
+D:\Users\thales\source\repos\Take.Bot.Safra.RotinaApi\Take.Bot.Safra.RotinaApi\obj\Debug\netcoreapp2.2\Take.Bot.Safra.RotinaApi.AssemblyInfo.cs
+D:\Users\thales\source\repos\Take.Bot.Safra.RotinaApi\Take.Bot.Safra.RotinaApi\obj\Debug\netcoreapp2.2\Take.Bot.Safra.RotinaApi.RazorTargetAssemblyInfo.cache
+D:\Users\thales\source\repos\Take.Bot.Safra.RotinaApi\Take.Bot.Safra.RotinaApi\bin\Debug\netcoreapp2.2\Take.Bot.Safra.RotinaApi.pdb
+D:\Users\thales\source\repos\Take.Bot.Safra.RotinaApi\Take.Bot.Safra.RotinaApi\obj\Debug\netcoreapp2.2\Take.Bot.Safra.RotinaApi.dll
+D:\Users\thales\source\repos\Take.Bot.Safra.RotinaApi\Take.Bot.Safra.RotinaApi\obj\Debug\netcoreapp2.2\Take.Bot.Safra.RotinaApi.pdb
